@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chandu-ui-live/static/css/main.3d939daf.css",
+    "main.js": "/chandu-ui-live/static/js/main.626a92ac.js",
+    "index.html": "/chandu-ui-live/index.html",
+    "main.3d939daf.css.map": "/chandu-ui-live/static/css/main.3d939daf.css.map",
+    "main.626a92ac.js.map": "/chandu-ui-live/static/js/main.626a92ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d939daf.css",
+    "static/js/main.626a92ac.js"
+  ]
+}
